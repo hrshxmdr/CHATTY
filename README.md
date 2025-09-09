@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-live:https://chatty1-0.onrender.com
+live: https://chatty1-0.onrender.com
 
 
 Highlights:
